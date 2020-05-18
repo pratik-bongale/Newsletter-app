@@ -1,11 +1,15 @@
 # Newsletter Signup App
-Signup to get regular updates on my web development journey.
+Signup to get regular updates on my web development journey, some important tips and best practices. 
 
 ## Getting Started
+- The App is currently hosted on Heroku. For a quick peek visit [Newsletter App](https://glacial-plains-35733.herokuapp.com/).
+
+### Run the app locally
+- This app uses Mailchimp API to register and manage my newsletter audience. 
 - You will need a Mailchimp account to run this app locally.
-- Signup for a free Mailchimp account
+- Signup for a free Mailchimp account. Visit [www.mailchimp.com](https://mailchimp.com/)
 - Create API key:
-  - Visit [Mailchimp](https://mailchimp.com/), login, open `Account` settings, goto `Extras` -> API Keys -> create API Key
+  - login, open `Account` settings, goto `Extras` -> API Keys -> create API Key
 - Create Audience ID:
   - Click `Audience` on the navigation bar
   - Select `View Audiences` from drop down list
