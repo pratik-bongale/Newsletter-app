@@ -18,7 +18,7 @@ Signup to get regular updates on my web development journey.
 ### Installing
 Clone this repository. 
 ```bash
-$ git clone .................
+$ git clone https://github.com/pratik-bongale/Newsletter-app.git
 ```
 
 Change directory
