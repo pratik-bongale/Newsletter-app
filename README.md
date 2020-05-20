@@ -51,7 +51,12 @@ Run app
 $ node app.js
 ```
 
-## Authors
+Visit localhost
+```
+Go to https://localhost:3000/
+```
+
+## Author
 * **Pratik Bongale** - *Initial work* - [Newsletter-app](https://github.com/Newsletter-app)
 
 
